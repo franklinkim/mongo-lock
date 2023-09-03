@@ -1,6 +1,6 @@
 module github.com/square/mongo-lock
 
-go 1.13
+go 1.18
 
 require (
 	github.com/go-test/deep v1.0.1
